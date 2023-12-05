@@ -1,3 +1,2 @@
 WPU Resolusi
-- membuat file resolusi
 - belajar laravel
